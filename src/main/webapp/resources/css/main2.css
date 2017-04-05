@@ -1,0 +1,77 @@
+
+.aesoft>p{
+    display:inline;
+    color:#1e8fa9;
+}
+.android{
+    color:#4a680f;
+    text-transform:uppercase;
+    text-decoration:underline;
+}
+.web{
+    color:#1e3590;
+    text-transform:uppercase;
+    text-decoration:underline;
+}
+
+.container .footer{
+    position:relative;
+    top:150px;
+    text-align:center;
+    background:black;
+    color:white;
+
+}
+.container .footer>p{
+    top:10px;
+
+}
+.container .footer>img{
+    width:20px;
+    height:20px;
+
+}
+.myslide{
+    top:25px;
+}
+.container .myimage{
+    max-width:150px;
+    max-height:200px;
+    margin-bottom:15px;
+
+}
+.mycontainer{
+    margin-top:15px;
+
+}
+@media only screen and (max-width:480px){
+    .mycontainer>h2{
+        font-size:20px;
+    }
+    .myh2{
+        top:-20px;
+    }
+    .mycontainer{
+        position:relative;
+        margin-top:-10px;
+    }
+    .myimage2{
+        margin-top:20px;
+    }
+    .myslide{
+        top:-1px;
+    }
+    .container .footer{
+        top:150px;
+    }
+    .footer{
+        font-size:10px;
+    }
+}
+@media only screen and (max-width:1280px){
+
+    .mycontainer>h2{
+        margin-top:35px;
+    }
+}
+

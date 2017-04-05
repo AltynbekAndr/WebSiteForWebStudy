@@ -1,0 +1,63 @@
+
+.aesoft>p{
+    display:inline;
+    color:#1e8fa9;
+}
+.container>h2{
+    text-transform:uppercase;
+    color:#1e517e;
+
+}
+.container .ourdev>h2{
+    text-transform:uppercase;
+    color:#1e517e;
+    text-decoration:underline;
+}
+.imagedev{
+    border-radius:100%;
+}
+.ourdev{
+    text-align:center;
+}
+.container .myslide{
+    max-width:500px;
+    float:left;
+    margin-right:15px;
+}
+.p{
+    text-decoration:underline;
+    color:black;
+}
+.skills{
+    text-align:center;
+}
+@media only screen and (max-width:480px){
+
+    .container .myslide{
+        max-width:200px;
+        float:left;
+        margin-right:15px;
+    }
+    .footer{
+        color:white;
+        font-size:10px;
+    }
+}
+.container .footer{
+    position:relative;
+    top:150px;
+    text-align:center;
+    background:black;
+
+}
+.container .footer>p{
+    top:10px;
+    color:white;
+
+}
+.container .footer>img{
+    width:20px;
+    height:20px;
+
+}
+
