@@ -23,7 +23,7 @@
         </div>
         <div class="collapse navbar-collapse" id="responsive-menu">
           <ul class="nav navbar-nav">
-            <li><a class="aesoft" href="http://localhost:8080"><p>AE</p>Soft</a></li>
+            <li><a class="aesoft" href="http://http://env-3136512.jelastic.regruhosting.ru/webstudy"><p>AE</p>Soft</a></li>
             <li><a href="ourproducts">OUR PRODUCTS</a></li>
             <li><a href="#">CONTACTS</a></li>
             <li><a href="#">ABOUT</a></li>
@@ -41,9 +41,9 @@
 </div>
 <div class="container">
   <div class="imageprodust">
-    <img class="col-md-4 col-sm-4 col-xs-4"src="resources/images/w1.jpg">
-    <img class="col-md-4 col-sm-4 col-xs-4" src="resources/images/iconwebsait2.png">
-    <img class="col-md-4 col-sm-4 col-xs-4" src="resources/images/icon_site.jpg">
+    <a href="http://env-8351594.jelastic.regruhosting.ru/tallayweb/"><img class="col-md-4 col-sm-4 col-xs-4"src="resources/images/w1.jpg"></a>
+    <a href="http://env-0150903.jelastic.regruhosting.ru/koobecaf/"><img class="col-md-4 col-sm-4 col-xs-4" src="resources/images/iconwebsait2.png"></a>
+    <a href="#"><img class="col-md-4 col-sm-4 col-xs-4" src="resources/images/icon_site.jpg"></a>
   </div>
 </div>
 
@@ -57,18 +57,23 @@
 <div class="container">
 
   <div class="col-md-4 col-sm-4 col-xs-4 myslide">
-    <div id="carousel-example-generic" class="carousel slide mystyle" data-ride="carousel">
+
+     <div id="carousel-example-generic" class="carousel slide mystyle" data-ride="carousel">
       <ol class="carousel-indicators">
         <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
         <li data-target="#carousel-example-generic" data-slide-to="1"></li>
         <li data-target="#carousel-example-generic" data-slide-to="2"></li>
       </ol>
-      <div class="carousel-inner" role="listbox">
-        <div class="item active"><img class="myimg" src="ourproductsphoto"/></div>
-        <div class="item"><img class="myimg" src="ourproductsphoto2"/></div>
-        <div class="item"><img class="myimg" src="ourproductsphoto3"/></div>
+       <a href="https://yadi.sk/d/iuu0yJMO3HTnps">
+         <div class="carousel-inner" role="listbox">
 
-      </div>
+          <div class="item active"><img class="myimg" src="ourproductsphoto"/></div>
+          <div class="item"><img class="myimg" src="ourproductsphoto2"/></div>
+          <div class="item"><img class="myimg" src="ourproductsphoto3"/></div>
+
+        </div>
+       </a>
+
 
       <a href="#carousel-example-generic" class="left carousel-control" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -89,13 +94,14 @@
           <li data-target="#carousel-example-generic3" data-slide-to="1"></li>
           <li data-target="#carousel-example-generic3" data-slide-to="2"></li>
         </ol>
+        <a href="https://yadi.sk/d/EF6PYCez3HTnpg">
         <div class="carousel-inner" role="listbox">
           <div class="item active"><img class="myimg" src="ourproductsphoto4"/></div>
           <div class="item"><img class="myimg" src="ourproductsphoto5"/></div>
           <div class="item"><img class="myimg" src="ourproductsphoto6"/></div>
 
         </div>
-
+        </a>
         <a href="#carousel-example-generic3" class="left carousel-control" role="button" data-slide="prev">
           <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
           <span class="sr-only">Previos</span>
@@ -115,13 +121,14 @@
             <li data-target="#carousel-example-generic" data-slide-to="1"></li>
             <li data-target="#carousel-example-generic" data-slide-to="2"></li>
           </ol>
+          <a href="https://yadi.sk/d/vi_VHyXw3HTnxR">
           <div class="carousel-inner" role="listbox">
             <div class="item active"><img class="myimg" src="ourproductsphoto7"/></div>
             <div class="item"><img class="myimg" src="ourproductsphoto8"/></div>
             <div class="item"><img class="myimg" src="ourproductsphoto9"/></div>
 
           </div>
-
+          </a>
           <a href="#carousel-example-generic2" class="left carousel-control" role="button" data-slide="prev">
             <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
             <span class="sr-only">Previos</span>

@@ -6,12 +6,14 @@
 .container>h2{
     text-transform:uppercase;
     color:#1e517e;
+    font-family:serif;
 
 }
 .container .ourdev>h2{
     text-transform:uppercase;
     color:#1e517e;
     text-decoration:underline;
+    font-family:serif;
 }
 .imagedev{
     border-radius:100%;
@@ -25,8 +27,10 @@
     margin-right:15px;
 }
 .p{
-    text-decoration:underline;
-    color:black;
+    color:#4d4848;
+}
+.container>p{
+    color:#1e517e;
 }
 .skills{
     text-align:center;

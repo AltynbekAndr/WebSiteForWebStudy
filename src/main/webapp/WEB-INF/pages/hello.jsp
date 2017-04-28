@@ -25,7 +25,7 @@
 				</div>
 				<div class="collapse navbar-collapse" id="responsive-menu">
 					<ul class="nav navbar-nav">
-						<li><a class="aesoft" href="http://localhost:8080"><p>AE</p>Soft</a></li>
+						<li><a class="aesoft" href="http://env-3136512.jelastic.regruhosting.ru/webstudy/"><p>AE</p>Soft</a></li>
 						<li><a href="ourproducts">OUR PRODUCTS</a></li>
 						<li><a href="#">CONTACTS</a></li>
 						<li><a href="#">ABOUT</a></li>
@@ -37,7 +37,7 @@
 </div>
 
 <div class="container">
-	<h2>мы делаем качественный софт</h2>
+	<h2>мы делаем софт</h2>
 	<p>
 		Сводная информация о профиле (My Account Summary).
 		Публичный профиль (My Public Profile)

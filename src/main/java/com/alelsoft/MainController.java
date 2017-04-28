@@ -26,7 +26,7 @@ public class MainController {
     public byte[] ourproductsphoto() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "1.jpg");
         in = new FileInputStream(f);
@@ -38,7 +38,7 @@ public class MainController {
     public byte[] ourproductsphoto2() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "2.jpg");
         in = new FileInputStream(f);
@@ -50,7 +50,7 @@ public class MainController {
         public byte[] ourproductsphoto3() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "3.jpg");
         in = new FileInputStream(f);
@@ -62,7 +62,7 @@ public class MainController {
     public byte[] ourproductsphoto4() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "4.jpg");
         in = new FileInputStream(f);
@@ -74,7 +74,7 @@ public class MainController {
     public byte[] ourproductsphoto5() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "5.jpg");
         in = new FileInputStream(f);
@@ -86,7 +86,7 @@ public class MainController {
     public byte[] ourproductsphoto6() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "6.jpg");
         in = new FileInputStream(f);
@@ -98,7 +98,7 @@ public class MainController {
     public byte[] ourproductsphoto7() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "7.jpg");
         in = new FileInputStream(f);
@@ -110,7 +110,7 @@ public class MainController {
     public byte[] ourproductsphoto8() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "8.jpg");
         in = new FileInputStream(f);
@@ -122,7 +122,7 @@ public class MainController {
     public byte[] ourproductsphoto9() throws IOException {
         InputStream in = null;
 
-        String rootPath = "C:\\path\\";
+        String rootPath = "path";
         File dir = new File(rootPath + File.separator + "loadFiles");
         File f = new File(dir.getAbsolutePath() + File.separator + "9.jpg");
         in = new FileInputStream(f);
